@@ -2,12 +2,6 @@ package snake;
 
 /**
  *
-<<<<<<< HEAD
- *
- *
- *
-=======
->>>>>>> refs/heads/test
  *
  *
  */
