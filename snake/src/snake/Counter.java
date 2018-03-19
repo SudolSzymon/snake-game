@@ -1,7 +1,7 @@
 package snake;
 
 /**
- *
+ * gowno zjebalem
  *
  *
  */
@@ -13,7 +13,7 @@ public class Counter {
 	 * Provide a name for one of the simulation types.
 	 *
 	 * @param name
-	 * 
+	 *
 	 */
 	public Counter() {
 
