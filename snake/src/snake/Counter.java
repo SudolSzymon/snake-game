@@ -2,6 +2,11 @@ package snake;
 
 /**
  *
+ *
+ *
+ *
+ *
+ *
  */
 public class Counter {
 	// How many of this type exist in the simulation.
