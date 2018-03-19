@@ -1,7 +1,7 @@
 package snake;
 
 /**
- * gowno zjebalem
+ * 
  *
  *
  */
