@@ -1,8 +1,6 @@
 package snake;
 
 /**
- * 
- *
  *
  */
 public class Counter {
